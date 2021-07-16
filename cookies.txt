@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+gracethemesdemo.com	TRUE	/flourish/	FALSE	1999999999	wp_woocommerce_session_53b53945fe7875f78b5651fb7824ae99	25cdc92ac03592b9acc9bd8709feffd4%7C%7C1626619720%7C%7C1626616120%7C%7Ce1accceecc24918e5bacc7d977e82179
+gracethemesdemo.com	TRUE	/flourish/	FALSE	1999999999	woocommerce_items_in_cart	1
+gracethemesdemo.com	TRUE	/flourish/	FALSE	1999999999	woocommerce_cart_hash	1ce03ffb4e2dbec81d1b83283235014f
+
