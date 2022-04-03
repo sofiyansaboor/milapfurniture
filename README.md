@@ -1,5 +1,5 @@
 # milapfurniture
-this is a local furniture store based in Hyderabad, Telangana
+This is a local furniture store based in Hyderabad, Telangana
 
 Privacy Policy for Milap Furniture
 At Milap Furniture, accessible from https://sofiyansaboor.github.io/milapfurniture/gracethemesdemo.com/flourish/index.html, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by Milap Furniture and how we use it.
